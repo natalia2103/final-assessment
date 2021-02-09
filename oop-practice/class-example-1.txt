@@ -1,0 +1,15 @@
+Class: School
+
+Attributes:
+mascot (string)
+isInSession (Boolean)
+hasPlayground (Boolean)
+studentsGraduating (array)
+totalNumberofStudents (integer)
+
+Methods:
+changeMascot (changes mascot attribute)
+goOnBreak (changes isInSession attribute to false)
+buildPlayground (changes hasPlayground attribute to true)
+deliverDiplomas (adds information to the studentsGraduating attribute)
+addNewEnrollment (updates the totalNumberofStudents attribute)
