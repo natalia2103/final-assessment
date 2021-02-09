@@ -1,4 +1,4 @@
-Class: School
+Class:  High School
 
 Attributes:
 mascot (string)
